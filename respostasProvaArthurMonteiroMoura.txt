@@ -1,0 +1,13 @@
+1)
+Variáveis pre-definidas são variáveis contendo informações vindas do servidor e do navegador, 
+podendo ser usadas pelo programador. São variáveis nativas que estão sempre disponíveis em todos os escopos.
+
+Exemplo: $http_response_header — Cabeçalhos de resposta HTTP
+	 $_REQUEST — Variáveis	de	requisição	HTTP
+	 $_SESSION — Variáveis	de	sessão
+
+
+2) B - Falsa
+
+3) C - 343
+
